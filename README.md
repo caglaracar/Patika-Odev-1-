@@ -1,3 +1,1 @@
-Linke tıklayarak projenin gelişmiş halini görebilirsiniz...
 
-https://patika-odev-1.netlify.app/
